@@ -15,4 +15,4 @@
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khouloud_Hamrouni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khouloudhm/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khouloudhamrouny@gmail.com)
-[![CV](https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://khouloud-hamrouni.github.io/khouloud-hamrouni-cv/)
+[![CV](https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://khouloud-hamrouni.github.io/khouloud-hamrouni-cv/)
