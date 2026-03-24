@@ -2,7 +2,7 @@
 
 ## 🎯 Profile
 👩🏻‍💻 Electronics and Embedded systems engineer<br/>
-👩🏻‍🎓 Studied Computer Science at Polytech Paris-Saclay<br/>
+👩🏻‍🎓 Studied Electronics and Computer Science at Polytech Paris-Saclay<br/>
 
 ## 💻 Tech Stack
 - **Programming** : C, C++, Python
