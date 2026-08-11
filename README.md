@@ -1,12 +1,12 @@
 ## Hi, I'm Khouloud!
 
 ## 🎯 Profile
-👩🏻‍💻 Electronics and Embedded systems engineer<br/>
+👩🏻‍💻 Embedded software & robotics Engineer<br/>
 👩🏻‍🎓 Studied Electronics and Computer Science at Polytech Paris-Saclay<br/>
 
 ## 💻 Tech Stack
-- **Programming** : C, C++, Python
-- **Plateforms** : STM32, ESP32, Arduino, Bare-metal, Embedded Linux
+- **Programming** : C, C++, Python, ROS, OpenCV, Qt
+- **Embedded software** : MATLAB/Simulink, ROS2, Arduino, STM32, Bare-metal, Embedded Linux
 - **Architectures & Communication** : Multithreading/Multiprocessing, TCP/IP, I2C/SPI/UART
 - **Testing & Validation** : Use case writing (PVal), unit testing, integration and qualification, debugging
 - **Electronic Design** : Altium Designer (schematic and PCB), VHDL on FPGA
